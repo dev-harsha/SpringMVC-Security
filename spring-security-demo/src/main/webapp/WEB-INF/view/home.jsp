@@ -6,11 +6,11 @@
 	</head>
 	
 	<body>
-		<h2>luv2code Company Home Page</h2>
+		<h2>luv2code Company Home Page - Yuhoo</h2>
 		<hr>
 		
 		Welcome to luv2code company home page!
 		
 	</body>
 
-</html>
+</html> 
